@@ -1,0 +1,7 @@
+{"testCaseName":"Test Cases/LAB4","testCaseId":"Test Cases/LAB4","iterationVariableName":"","bindedValues":{"UserName":"\u0027asd\u0027","Alert":"\u0027Epic sadface Password is required\u0027"}}
+{"testCaseName":"Test Cases/LAB4","testCaseId":"Test Cases/LAB4","iterationVariableName":"","bindedValues":{"Pass":"\u0027asd\u0027","Alert":"\u0027Epic sadface Username is required\u0027"}}
+{"testCaseName":"Test Cases/LAB4","testCaseId":"Test Cases/LAB4","iterationVariableName":"","bindedValues":{"Alert":"\u0027Epic sadface Username is required\u0027"}}
+{"testCaseName":"Test Cases/LAB4","testCaseId":"Test Cases/LAB4","iterationVariableName":"","bindedValues":{"UserName":"\u0027standard_user\u0027","Pass":"\u0027asda\u0027","Alert":"\u0027Epic sadface Username and password do not match any user in this service\u0027"}}
+{"testCaseName":"Test Cases/LAB4","testCaseId":"Test Cases/LAB4","iterationVariableName":"","bindedValues":{"UserName":"\u0027asdasd\u0027","Pass":"\u0027secret_sauce\u0027","Alert":"\u0027Epic sadface Username and password do not match any user in this service\u0027"}}
+{"testCaseName":"Test Cases/LAB4","testCaseId":"Test Cases/LAB4","iterationVariableName":"","bindedValues":{"UserName":"\u0027asdasd\u0027","Pass":"\u0027asda\u0027","Alert":"\u0027Epic sadface Username and password do not match any user in this service\u0027"}}
+{"testCaseName":"Test Cases/LAB4","testCaseId":"Test Cases/LAB4","iterationVariableName":"","bindedValues":{"UserName":"\u0027standard_user\u0027","Pass":"\u0027secret_sauce\u0027"}}
